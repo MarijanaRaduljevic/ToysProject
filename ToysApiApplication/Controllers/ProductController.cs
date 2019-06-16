@@ -17,12 +17,12 @@ namespace ToysApiApplication.Controllers
     {
 
         private readonly ICreateProductCommand _createProduct;
-        private readonly IGetProductCommand _getProduct;
+        private readonly IGetProductCommandPaginate _getProduct;
         private readonly IDeleteProductCommand _deleteProduct;
         private readonly IEditProductCommand _editProduct;
         private readonly IGetOneProductCommand _getOneProduct;
 
-        public ProductController(ICreateProductCommand createProduct, IGetProductCommand getProduct, IDeleteProductCommand deleteProduct, IEditProductCommand editProduct, IGetOneProductCommand getOneProduct)
+        public ProductController(ICreateProductCommand createProduct, IGetProductCommandPaginate getProduct, IDeleteProductCommand deleteProduct, IEditProductCommand editProduct, IGetOneProductCommand getOneProduct)
         {
             _createProduct = createProduct;
             _getProduct = getProduct;
@@ -30,6 +30,8 @@ namespace ToysApiApplication.Controllers
             _editProduct = editProduct;
             _getOneProduct = getOneProduct;
         }
+
+
 
 
 

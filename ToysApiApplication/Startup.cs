@@ -33,7 +33,7 @@ namespace ToysApiApplication
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddDbContext<ToysContext>();
             services.AddTransient<ICreateProductCommand, EfCreateProductCommand>();
-            services.AddTransient<IGetProductCommand, EfGetProductCommand>();
+            services.AddTransient<IGetProductCommandPaginate, EfGetProductCommandPaginate>();
             services.AddTransient<IDeleteProductCommand, EfDeleteProductCommand>();
             services.AddTransient<IEditProductCommand, EfEditProductCommand>();
             services.AddTransient<IGetOneProductCommand, EfGetOneProductCommand>();
