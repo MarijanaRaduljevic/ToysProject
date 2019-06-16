@@ -15,5 +15,9 @@ namespace ToysApplication.Searches
         public decimal? MinPrice { get; set; }
 
         public decimal? MaxPrice { get; set; }
+
+        public int PerPage { get; set; } = 2;
+
+        public int PageNumber { get; set; } = 1;
     }
 }
