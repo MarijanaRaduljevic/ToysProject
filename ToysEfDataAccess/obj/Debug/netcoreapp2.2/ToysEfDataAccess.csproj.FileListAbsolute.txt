@@ -1,0 +1,14 @@
+C:\Users\Marijana\source\repos\ToysProject\ToysEfDataAccess\bin\Debug\netcoreapp2.2\ToysDomain.dll
+C:\Users\Marijana\source\repos\ToysProject\ToysEfDataAccess\obj\Debug\netcoreapp2.2\ToysEfDataAccess.csprojAssemblyReference.cache
+C:\Users\Marijana\source\repos\ToysProject\ToysEfDataAccess\obj\Debug\netcoreapp2.2\ToysEfDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Marijana\source\repos\ToysProject\ToysEfDataAccess\obj\Debug\netcoreapp2.2\ToysEfDataAccess.AssemblyInfoInputs.cache
+C:\Users\Marijana\source\repos\ToysProject\ToysEfDataAccess\obj\Debug\netcoreapp2.2\ToysEfDataAccess.AssemblyInfo.cs
+C:\Users\Marijana\source\repos\ToysProject\ToysEfDataAccess\bin\Debug\netcoreapp2.2\ToysEfDataAccess.deps.json
+C:\Users\Marijana\source\repos\ToysProject\ToysEfDataAccess\bin\Debug\netcoreapp2.2\ToysEfDataAccess.runtimeconfig.json
+C:\Users\Marijana\source\repos\ToysProject\ToysEfDataAccess\bin\Debug\netcoreapp2.2\ToysEfDataAccess.runtimeconfig.dev.json
+C:\Users\Marijana\source\repos\ToysProject\ToysEfDataAccess\bin\Debug\netcoreapp2.2\ToysEfDataAccess.dll
+C:\Users\Marijana\source\repos\ToysProject\ToysEfDataAccess\bin\Debug\netcoreapp2.2\ToysEfDataAccess.pdb
+C:\Users\Marijana\source\repos\ToysProject\ToysEfDataAccess\bin\Debug\netcoreapp2.2\ToysDomain.pdb
+C:\Users\Marijana\source\repos\ToysProject\ToysEfDataAccess\obj\Debug\netcoreapp2.2\ToysEfDataAccess.csproj.CopyComplete
+C:\Users\Marijana\source\repos\ToysProject\ToysEfDataAccess\obj\Debug\netcoreapp2.2\ToysEfDataAccess.dll
+C:\Users\Marijana\source\repos\ToysProject\ToysEfDataAccess\obj\Debug\netcoreapp2.2\ToysEfDataAccess.pdb

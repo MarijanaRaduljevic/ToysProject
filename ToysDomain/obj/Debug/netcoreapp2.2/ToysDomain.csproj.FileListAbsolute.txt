@@ -1,0 +1,9 @@
+C:\Users\Marijana\source\repos\ToysProject\ToysDomain\bin\Debug\netcoreapp2.2\ToysDomain.deps.json
+C:\Users\Marijana\source\repos\ToysProject\ToysDomain\bin\Debug\netcoreapp2.2\ToysDomain.dll
+C:\Users\Marijana\source\repos\ToysProject\ToysDomain\bin\Debug\netcoreapp2.2\ToysDomain.pdb
+C:\Users\Marijana\source\repos\ToysProject\ToysDomain\obj\Debug\netcoreapp2.2\ToysDomain.csproj.CoreCompileInputs.cache
+C:\Users\Marijana\source\repos\ToysProject\ToysDomain\obj\Debug\netcoreapp2.2\ToysDomain.AssemblyInfoInputs.cache
+C:\Users\Marijana\source\repos\ToysProject\ToysDomain\obj\Debug\netcoreapp2.2\ToysDomain.AssemblyInfo.cs
+C:\Users\Marijana\source\repos\ToysProject\ToysDomain\obj\Debug\netcoreapp2.2\ToysDomain.dll
+C:\Users\Marijana\source\repos\ToysProject\ToysDomain\obj\Debug\netcoreapp2.2\ToysDomain.pdb
+C:\Users\Marijana\source\repos\ToysProject\ToysDomain\obj\Debug\netcoreapp2.2\ToysDomain.csprojAssemblyReference.cache
