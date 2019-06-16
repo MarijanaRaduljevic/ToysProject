@@ -1,4 +1,6 @@
-﻿using System;
+﻿
+using Microsoft.AspNetCore.Http;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Text;
@@ -23,5 +25,8 @@ namespace ToysApplication.DTO
 
         [Required]
         public string Title { get; set; }
+
+        public IFormFile Image { get; set; }
+
     }
 }

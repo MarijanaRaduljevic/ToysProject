@@ -7,3 +7,6 @@ C:\Users\Marijana\source\repos\ToysProject\ToysApplication\obj\Debug\netcoreapp2
 C:\Users\Marijana\source\repos\ToysProject\ToysApplication\obj\Debug\netcoreapp2.2\ToysApplication.AssemblyInfo.cs
 C:\Users\Marijana\source\repos\ToysProject\ToysApplication\obj\Debug\netcoreapp2.2\ToysApplication.dll
 C:\Users\Marijana\source\repos\ToysProject\ToysApplication\obj\Debug\netcoreapp2.2\ToysApplication.pdb
+C:\Users\Marijana\source\repos\ToysProject\ToysApplication\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Marijana\source\repos\ToysProject\ToysApplication\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Marijana\source\repos\ToysProject\ToysApplication\obj\Debug\netcoreapp2.2\ToysApplication.csproj.CopyComplete
