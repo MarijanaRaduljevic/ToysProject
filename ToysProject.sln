@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToysApiApplication", "ToysApiApplication\ToysApiApplication.csproj", "{577696A6-AA19-4CF9-9234-A735117AAACD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToysEfDataAccess", "ToysEfDataAccess\ToysEfDataAccess.csproj", "{8441D101-FBE3-43EF-ACB6-0CFB2FF04AA1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToysDomain", "ToysDomain\ToysDomain.csproj", "{A35C8C18-06F6-4F24-9B2C-20321F2CA29D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToysApplication", "ToysApplication\ToysApplication.csproj", "{03F0CFBE-AA38-4E3A-9159-A222891F52FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToysEfCommands", "ToysEfCommands\ToysEfCommands.csproj", "{0D2F325E-57E9-4E17-8DE5-480E8C5E8A5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToysMVC", "ToysMVC\ToysMVC.csproj", "{D85306B6-AF92-4848-886F-04A3B93EFBA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{577696A6-AA19-4CF9-9234-A735117AAACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577696A6-AA19-4CF9-9234-A735117AAACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577696A6-AA19-4CF9-9234-A735117AAACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577696A6-AA19-4CF9-9234-A735117AAACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8441D101-FBE3-43EF-ACB6-0CFB2FF04AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8441D101-FBE3-43EF-ACB6-0CFB2FF04AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8441D101-FBE3-43EF-ACB6-0CFB2FF04AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8441D101-FBE3-43EF-ACB6-0CFB2FF04AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A35C8C18-06F6-4F24-9B2C-20321F2CA29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A35C8C18-06F6-4F24-9B2C-20321F2CA29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A35C8C18-06F6-4F24-9B2C-20321F2CA29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A35C8C18-06F6-4F24-9B2C-20321F2CA29D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03F0CFBE-AA38-4E3A-9159-A222891F52FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F0CFBE-AA38-4E3A-9159-A222891F52FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F0CFBE-AA38-4E3A-9159-A222891F52FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F0CFBE-AA38-4E3A-9159-A222891F52FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D2F325E-57E9-4E17-8DE5-480E8C5E8A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D2F325E-57E9-4E17-8DE5-480E8C5E8A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D2F325E-57E9-4E17-8DE5-480E8C5E8A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D2F325E-57E9-4E17-8DE5-480E8C5E8A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D85306B6-AF92-4848-886F-04A3B93EFBA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85306B6-AF92-4848-886F-04A3B93EFBA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85306B6-AF92-4848-886F-04A3B93EFBA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85306B6-AF92-4848-886F-04A3B93EFBA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9305DF05-1B5F-46E4-8F1E-F7FEFF321C0F}
+	EndGlobalSection
+EndGlobal
