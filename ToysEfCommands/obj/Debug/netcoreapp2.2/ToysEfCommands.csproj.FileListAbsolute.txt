@@ -1,0 +1,16 @@
+C:\Users\Marijana\source\repos\ToysProject\ToysEfCommands\bin\Debug\netcoreapp2.2\ToysEfCommands.deps.json
+C:\Users\Marijana\source\repos\ToysProject\ToysEfCommands\bin\Debug\netcoreapp2.2\ToysEfCommands.dll
+C:\Users\Marijana\source\repos\ToysProject\ToysEfCommands\bin\Debug\netcoreapp2.2\ToysEfCommands.pdb
+C:\Users\Marijana\source\repos\ToysProject\ToysEfCommands\bin\Debug\netcoreapp2.2\ToysApplication.dll
+C:\Users\Marijana\source\repos\ToysProject\ToysEfCommands\bin\Debug\netcoreapp2.2\ToysDomain.dll
+C:\Users\Marijana\source\repos\ToysProject\ToysEfCommands\bin\Debug\netcoreapp2.2\ToysEfDataAccess.dll
+C:\Users\Marijana\source\repos\ToysProject\ToysEfCommands\bin\Debug\netcoreapp2.2\ToysApplication.pdb
+C:\Users\Marijana\source\repos\ToysProject\ToysEfCommands\bin\Debug\netcoreapp2.2\ToysEfDataAccess.pdb
+C:\Users\Marijana\source\repos\ToysProject\ToysEfCommands\bin\Debug\netcoreapp2.2\ToysDomain.pdb
+C:\Users\Marijana\source\repos\ToysProject\ToysEfCommands\obj\Debug\netcoreapp2.2\ToysEfCommands.csprojAssemblyReference.cache
+C:\Users\Marijana\source\repos\ToysProject\ToysEfCommands\obj\Debug\netcoreapp2.2\ToysEfCommands.csproj.CoreCompileInputs.cache
+C:\Users\Marijana\source\repos\ToysProject\ToysEfCommands\obj\Debug\netcoreapp2.2\ToysEfCommands.AssemblyInfoInputs.cache
+C:\Users\Marijana\source\repos\ToysProject\ToysEfCommands\obj\Debug\netcoreapp2.2\ToysEfCommands.AssemblyInfo.cs
+C:\Users\Marijana\source\repos\ToysProject\ToysEfCommands\obj\Debug\netcoreapp2.2\ToysEfCommands.csproj.CopyComplete
+C:\Users\Marijana\source\repos\ToysProject\ToysEfCommands\obj\Debug\netcoreapp2.2\ToysEfCommands.dll
+C:\Users\Marijana\source\repos\ToysProject\ToysEfCommands\obj\Debug\netcoreapp2.2\ToysEfCommands.pdb
