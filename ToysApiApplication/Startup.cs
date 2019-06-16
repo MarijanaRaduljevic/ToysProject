@@ -56,6 +56,7 @@ namespace ToysApiApplication
 
             services.AddTransient<IDeleteImageCommand, EfDeleteImageCommand>();
             services.AddTransient<IGetImageCommand, EfGetImageCommand>();
+            services.AddTransient<ICreateImageCommand, EfCreateImageCommand>();
 
 
             var section = Configuration.GetSection("Email");
